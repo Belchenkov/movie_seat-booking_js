@@ -1,8 +1,22 @@
-## Movie Seat Booking
+# Movie Seat Booking
 
 > Display movie choices and seats in a theater to select from in order to purchase tickets
 
-#### Demo: http://movie-seat-booking-ab.surge.sh
+### Demo: http://movie-seat-booking-ab.surge.sh
+[![IMAGE ALT TEXT HERE](./screen.png)](https://radikal.ru/video/1mxIpdFTLCC)
 
-## Project Specifications
-Design inspiration from [Dribbble](https://dribbble.com/shots/3628370-Movie-Seat-Booking)
+### Get started
+
+```shell script
+git clone
+```
+```shell script
+open index.html
+```
+or
+```shell script
+npm i -g live-server
+```
+```shell script
+live-server
+```
