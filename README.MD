@@ -2,8 +2,8 @@
 
 > Display movie choices and seats in a theater to select from in order to purchase tickets
 
-### Demo: http://movie-seat-booking-ab.surge.sh
-[![IMAGE ALT TEXT HERE](./screen.png)](https://radikal.ru/video/1mxIpdFTLCC)
+### [[Demo](http://movie-seat-booking-ab.surge.sh)
+[![IMAGE ALT TEXT HERE](./screen.png)](https://radikal.ru/video/TQWLqXiNyIe)
 
 ### Get started
 
